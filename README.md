@@ -4,6 +4,8 @@ Academic Java project created as part of Object-Oriented Programming coursework 
 
 The project is a turn-based 2D virtual world simulator. Different organisms live on a board, perform actions, move, reproduce, collide with each other and interact according to their species-specific rules.
 
+## Preview
+
 <img width="795" height="875" alt="image" src="https://github.com/user-attachments/assets/40ba3d43-ad7e-44a0-a069-1f2de5e2d379" />
 
 ## General project idea
